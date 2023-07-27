@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# THis is Yelp clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App]
+
 
 ## Available Scripts
 
