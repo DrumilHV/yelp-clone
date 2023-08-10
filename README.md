@@ -1,6 +1,22 @@
 # THis is Yelp clone
 
-This project was bootstrapped with [Create React App]
+
+<img width="845" alt="Screenshot 2023-08-10 at 3 56 54 PM" src="https://github.com/DrumilHV/yelp-clone/assets/91252875/b454babc-e2d1-4cdc-b675-11c3372ee6f1">
+
+
+## Home page
+
+
+<img width="498" alt="Screenshot 2023-08-10 at 3 57 23 PM" src="https://github.com/DrumilHV/yelp-clone/assets/91252875/fbdda963-cf94-429d-b33f-021aad75bfea">
+
+## Update Restaurants 
+
+
+<img width="436" alt="Screenshot 2023-08-10 at 3 57 35 PM" src="https://github.com/DrumilHV/yelp-clone/assets/91252875/2acbe8ad-1b74-4fa9-88a2-09d4ab39a97b">
+
+
+## Add Reviews to each Restaurants 
+
 
 
 ## Available Scripts
